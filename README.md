@@ -1,4 +1,4 @@
-Created by Hugo Teixeira Mafra <hugorc10@hotmail.com> on 20/08/2018. Last modification on 13/09/2018.
+Created by Hugo Teixeira Mafra <hugorc10@hotmail.com> on 20/08/2018.
 <p>
 Enrollment number: 201611540.
 <p>
