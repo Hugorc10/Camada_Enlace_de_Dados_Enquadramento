@@ -14,3 +14,14 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 <p>
+  
+Acrescentar ao código do “simulador de redes” os protocolos
+vistos para o enquadramento da informação
+• Contagem de caracteres (framing)
+• Inserção de bytes ou caracteres (character stufing)
+• Inserção de bits (bit stuffing)
+• Violações de codificação da camada física
+
+Detalhes do projeto
+ Conforme explicado em sala de aula
+ OBS: trabalhar com BITS e não BYTES!
