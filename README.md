@@ -23,5 +23,4 @@ vistos para o enquadramento da informação
 • Violações de codificação da camada física
 
 Detalhes do projeto
- Conforme explicado em sala de aula
- OBS: trabalhar com BITS e não BYTES!
+foi trabalhado com manipulação de bits.
